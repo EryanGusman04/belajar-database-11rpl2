@@ -152,9 +152,9 @@ select * from siswa;
 | nis      | nama             | jk   | tempat_lahir | tanggal_lahir | alamat        | kelas    | nilai | jomblo |
 +----------+------------------+------+--------------+---------------+---------------+----------+-------+--------+
 | 10100018 | ADNAN MAULANA    | L    | SUBANG       | 2007-02-01    | CIGADUNG      | 11-RPL-2 | 85.55 |      1 |
-| 1200492  | MUHAMAD TEGEP    | L    | SUBANG       | 2006-02-23    | BALE NYENGKED | 11-RPL-2 | 89.55 |      1 |
+| 12100492 | MUHAMAD TEGEP    | L    | SUBANG       | 2006-02-23    | BALE NYENGKED | 11-RPL-2 | 89.55 |      1 |
 | 12100193 | DIAN WINATA      | L    | SUBANG       | 2006-03-19    | BBKN BANDUNG  | 11-RPL-2 | 87.45 |      1 |
-| 12100219 | EGI SUBASTIAN    | L    | SUBANG       | 2006-06-12    | KALIJATI      | 11-RPL-2 |  85.5 |      1 |
+| 12100219 | EGI SUBASTIAN    | L    | SUBANG       | 2006-06-12    | KALIJATI      | 11-RPL-2 | 85.55 |      1 |
 | 12100251 | FAHMI MAULANA    | L    | SUBANG       | 2006-08-05    | SUMBERSARI    | 11-RPL-2 | 89.75 |      1 |
 | 12100327 | INDRA LESMANA    | L    | SUBANG       | 2006-03-04    | CIGADUNG      | 11-RPL-2 | 80.55 |      1 |
 | 12100363 | KASIH SUSILAWATI | P    | SUBANG       | 2005-12-02    | CIPAKU        | 11-RPL-2 | 80.45 |      2 |
